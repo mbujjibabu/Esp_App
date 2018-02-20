@@ -170,6 +170,7 @@ public class MainActivity extends AppCompatActivity {
             InetAddress serverAddr;
             DatagramPacket packet;
             DatagramSocket socket;
+            //tesitng
 
 
             try {
