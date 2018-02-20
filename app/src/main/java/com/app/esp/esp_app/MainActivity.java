@@ -166,7 +166,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         public void run(){
-
+	//test
             InetAddress serverAddr;
             DatagramPacket packet;
             DatagramSocket socket;
